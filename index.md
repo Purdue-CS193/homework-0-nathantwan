@@ -4,7 +4,7 @@
 - _The Amazing Teachers_
 - _The Extremely Useful Content_
 - _My Fellow Classmates_
-![Image}(https://commons.wikimedia.org/wiki/File:Purdue_Boilermakers_logo.svg)
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LMI6hp-38VPg60t1bq-SblgKbhvxKjlKqg&s)
 
 
 **Bold** and _Italic_ and `Code` text
