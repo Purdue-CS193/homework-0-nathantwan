@@ -7,8 +7,6 @@
 - _My Fellow Classmates_
 - _I Love Computer Science and_ `Coding`
   
-
-
   **I think I deserve 100 for this amazing website!**
 
 ![Image](https://media.istockphoto.com/id/178497529/photo/an-a-circled-on-a-blank-white-background.jpg?s=612x612&w=0&k=20&c=10jEdgC9g9mowAc9Yc-EWV110PS81LAELq82MyU5hy4=)
