@@ -5,9 +5,8 @@
 - _The Amazing Teachers_
 - _The Extremely Useful Content_
 - _My Fellow Classmates_
-`I Love Computer Science and Coding`
 
-
+###I Love Computer Science and Coding_
 
   **I think I deserve 100 for this amazing website!**
 
